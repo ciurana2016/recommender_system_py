@@ -5,7 +5,7 @@ from scipy.sparse import coo_matrix
 def no_file():
     print 'Dataset not found, please download the file from:'
     print 'http://mtg.upf.edu/static/datasets/last.fm/lastfm-dataset-360K.tar.gz (1.6GB)'
-    print 'then place it in song_recommender_py/data/ and change the file_path'
+    print 'then place it in recommender_system_py/data/ and change the file_path'
     print 'variable on the fetch_lastfm function'
 
 
