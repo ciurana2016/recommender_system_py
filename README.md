@@ -15,12 +15,12 @@ The challange required you to compare the results of 3 loss functions, but I did
 * scipy (https://www.scipy.org/)
 * lightfm (https://github.com/lyst/lightfm)
 
-# Usage
+## Usage
 Just run
 ```
 recommend_challage.py
 ```
 It will ask you to select 3 users, by id (from 0 to 2033), press Enter after every question and it will give you the recommended artists for the users you selected.
 
-# Credits
+## Credits
 Credits to [Siraj](https://github.com/llSourcell)
